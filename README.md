@@ -1,4 +1,4 @@
-# Moonlight PC
+# Firefly
 
 [Moonlight PC](https://moonlight-stream.org) is an open source PC client for NVIDIA GameStream and [Sunshine](https://github.com/LizardByte/Sunshine).
 
