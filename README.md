@@ -1,6 +1,6 @@
 # Firefly
 
-Firefly is a fork of Moonlight, an open source project that allows you to stream video from one device to another. For more information on the Moonlight project and it's development 
+Firefly is a fork of Moonlight, an open source project that allows you to stream video from one device to another. For more information on the Moonlight project and it's development check them out on Github!
 
 ## Features
  - Hardware accelerated video decoding on Windows, Mac, and Linux
